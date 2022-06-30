@@ -1,0 +1,49 @@
+*
+{
+    margin:0 auto;
+}
+
+body
+{
+    background-color: rgb(206, 185, 0);
+    color: dodgerblue;
+    font-family: 'Teko', sans-serif;
+
+}
+
+header
+{
+    text-align: center;
+    margin-top: 20PX;
+    margin-bottom: 40px;
+    padding: 10px;
+    font-family: 'Assistant', sans-serif;
+}
+
+div
+{
+    text-align: center;
+    padding: 10px;
+}
+
+.choix
+{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+}
+
+.choix img
+{
+    width: 100px;
+    height: 200px;
+    padding: 10px;
+}
+
+.choix a
+{
+    padding: 10px;
+    border: 2px solid #335853;
+    border-radius: 10px;
+    box-shadow: 0px 10px 10px #335853;
+}
